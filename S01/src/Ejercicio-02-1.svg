@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="486.59116mm"
+   height="191.57132mm"
+   viewBox="0 0 486.59116 191.57132"
+   version="1.1"
+   id="svg1050"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="Ejercicio-02-1.svg">
+  <defs
+     id="defs1044">
+    <marker
+       style="overflow:visible"
+       id="marker3593"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3591" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3429"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3427" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3249"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3247" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3107"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3105" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2953"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2951" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2785"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2783" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2673"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2671" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2557"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2555" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2423"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2421" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2329"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2327" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2237"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2235" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2035"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2033" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1947"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1945" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1877"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1875" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1809"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1807" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2828"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2826" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2570"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2568" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="638.95808"
+     inkscape:cy="292.81283"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1860"
+     inkscape:window-height="1016"
+     inkscape:window-x="60"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata1047">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(124.29388,-39.851284)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.793751;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect904"
+       width="486.59116"
+       height="191.57132"
+       x="-124.29388"
+       y="39.851284"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(124.29388,-39.851284)">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect1711"
+       width="116.57377"
+       height="24.852373"
+       x="-49.50375"
+       y="183.76204"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-45.748363"
+       y="193.51776"
+       id="text2558"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2556"
+         x="-45.748363"
+         y="193.51776"
+         style="font-size:7.76111px;stroke-width:0.264583">&quot;Ingeniería en Sistemas</tspan><tspan
+         sodipodi:role="line"
+         x="-45.748363"
+         y="203.21915"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan1676">Audiovisuales y Multimedia&quot;</tspan></text>
+    <g
+       id="g1709"
+       transform="translate(22.411238,31.657674)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect3206"
+         width="36.71159"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text3210"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan3208"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Nombre</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2828)"
+       d="m 7.4316329,173.8996 v 9.2416"
+       id="path2824"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect1789"
+       width="98.339867"
+       height="24.852373"
+       x="215.03552"
+       y="183.76204"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="218.79091"
+       y="193.51776"
+       id="text1795"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1791"
+         x="218.79091"
+         y="193.51776"
+         style="font-size:7.76111px;stroke-width:0.264583">&quot;Ingeniería en Robótica </tspan><tspan
+         sodipodi:role="line"
+         x="218.79091"
+         y="203.21915"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan1793">Software&quot;</tspan></text>
+    <g
+       id="g1803"
+       transform="translate(277.5863,31.657674)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect1797"
+         width="36.71159"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text1801"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1799"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Nombre</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1809)"
+       d="m 262.60669,173.8996 v 9.2416"
+       id="path1805"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect1857"
+       width="33.40274"
+       height="14.810373"
+       x="70.848259"
+       y="183.76204"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.596565"
+       y="193.51776"
+       id="text1863"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="74.596565"
+         y="193.51776"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan1861">&quot;LTAW&quot;</tspan></text>
+    <g
+       id="g1871"
+       transform="translate(100.83904,31.657674)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect1865"
+         width="47.12727"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text1869"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1867"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Asignatura</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1877)"
+       d="m 89.017682,173.8996 v 9.2416"
+       id="path1873"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect1929"
+       width="33.40274"
+       height="14.810373"
+       x="123.4849"
+       y="183.76204"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.7503"
+       y="193.51776"
+       id="text1933"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="124.7503"
+         y="193.51776"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan1931">&quot;CSAAI&quot;</tspan></text>
+    <g
+       id="g1941"
+       transform="translate(153.47569,31.657674)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect1935"
+         width="47.12727"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text1939"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan1937"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Asignatura</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1947)"
+       d="m 141.65433,173.8996 v 9.2416"
+       id="path1943"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect2017"
+       width="33.40274"
+       height="14.810373"
+       x="174.74933"
+       y="183.76204"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="176.87949"
+       y="193.51776"
+       id="text2021"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="176.87949"
+         y="193.51776"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan2019">&quot;ASA II&quot;</tspan></text>
+    <g
+       id="g2029"
+       transform="translate(204.74012,31.657674)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect2023"
+         width="47.12727"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text2027"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan2025"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Asignatura</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2035)"
+       d="m 192.91876,173.8996 v 9.2416"
+       id="path2031"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse2554"
+       cx="98.36116"
+       cy="131.95427"
+       rx="17.464689"
+       ry="7.3354812"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="86.285072"
+       y="134.04471"
+       id="text2558-3"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2556-6"
+         x="86.285072"
+         y="134.04471"
+         style="font-size:7.76111px;stroke-width:0.264583">Grado</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2570)"
+       d="M 81.150418,133.72024 8.4340205,161.4633"
+       id="path2566"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2237)"
+       d="m 115.77455,131.88672 77.6961,29.82417"
+       id="path2233"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2329)"
+       d="M 92.339165,139.0461 88.00269,162.58084"
+       id="path2325"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2423)"
+       d="m 107.17859,138.09833 28.74317,23.89773"
+       id="path2419"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse2515"
+       cx="99.431419"
+       cy="98.542885"
+       rx="19.089336"
+       ry="7.3354812"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="85.730675"
+       y="100.63332"
+       id="text2519"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2517"
+         x="85.730675"
+         y="100.63332"
+         style="font-size:7.76111px;stroke-width:0.264583">Escuela</tspan></text>
+    <ellipse
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse2527"
+       cx="297.32382"
+       cy="131.95427"
+       rx="17.464689"
+       ry="7.3354812"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="285.24774"
+       y="134.04471"
+       id="text2531"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2529"
+         x="285.24774"
+         y="134.04471"
+         style="font-size:7.76111px;stroke-width:0.264583">Grado</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect2539"
+       width="21.981003"
+       height="14.810373"
+       x="317.59491"
+       y="183.76204"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="319.72507"
+       y="193.32051"
+       id="text2543"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="319.72507"
+         y="193.32051"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan2541">&quot;AC&quot;</tspan></text>
+    <g
+       id="g2551"
+       transform="translate(340.92131,31.657674)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect2545"
+         width="47.12727"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text2549"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan2547"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Asignatura</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2557)"
+       d="m 329.09995,173.8996 v 9.2416"
+       id="path2553"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2673)"
+       d="m 290.28373,139.0461 -27.56198,23.53474"
+       id="path2669"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2785)"
+       d="m 303.94919,138.66812 27.56198,23.53474"
+       id="path2781"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529166;stroke-linecap:round"
+       id="rect2933"
+       width="101.72504"
+       height="14.48214"
+       x="-119.0333"
+       y="162.87569"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-115.27792"
+       y="172.63141"
+       id="text2939"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-115.27792"
+         y="172.63141"
+         style="font-size:7.76111px;stroke-width:0.264583"
+         id="tspan2937">&quot;ETSI Telecomunicación&quot;</tspan></text>
+    <g
+       id="g2947"
+       transform="translate(-54.570053,-6.4080714)"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         style="fill:#999999;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+         id="rect2941"
+         width="36.71159"
+         height="10.726705"
+         x="-33.569721"
+         y="131.21802"
+         ry="0.8519938"
+         rx="0"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-30.22608"
+         y="139.2466"
+         id="text2945"
+         inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-06.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"><tspan
+           sodipodi:role="line"
+           id="tspan2943"
+           x="-30.22608"
+           y="139.2466"
+           style="font-size:7.76111px;stroke-width:0.264583">Nombre</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2953)"
+       d="m -69.549658,135.83386 v 27.04183"
+       id="path2949"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3107)"
+       d="M 80.268125,99.002031 -68.005935,124.58829"
+       id="path3103"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3249)"
+       d="m 99.464633,106.10974 v 17.69832"
+       id="path3245"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3429)"
+       d="M 118.60702,98.284397 281.86729,126.41541"
+       id="path3425"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+    <ellipse
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse3577"
+       cx="98.690086"
+       cy="64.683182"
+       rx="28.889877"
+       ry="8.4148321"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.76111px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="76.411346"
+       y="67.852974"
+       id="text3581"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan3579"
+         x="76.411346"
+         y="67.852974"
+         style="font-size:7.76111px;stroke-width:0.264583">Universidad</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.793752;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3593)"
+       d="M 99.464994,72.951825 V 89.691566"
+       id="path3589"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/Ejercicio-02-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
