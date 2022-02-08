@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="668.2265mm"
+   height="352.9888mm"
+   viewBox="0 0 668.2265 352.9888"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (9b01c7b71c, 2021-02-18)"
+   sodipodi:docname="02-demo-webserver.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1794"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1792"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1673"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1671" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.33299275"
+     inkscape:cx="1156.8866"
+     inkscape:cy="648.22699"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(235.89816,63.711391)"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2037"
+       width="667.69733"
+       height="352.45963"
+       x="-235.63358"
+       y="-63.446808"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(235.89816,63.711391)">
+    <ellipse
+       ry="17.474609"
+       rx="66.484489"
+       cy="231.5887"
+       cx="281.70999"
+       id="path4805-4"
+       style="fill:none;stroke:#000000;stroke-width:1.31737;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 215.0907,233.22054 0.0625,-125.10535 h 133.0906 v 124.0237"
+       id="rect4824"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#ffffff;stroke:#000000;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4805"
+       cx="281.75772"
+       cy="106.84274"
+       rx="67.052475"
+       ry="17.47278"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-02.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g225"
+       transform="translate(-333.10391,31.512893)">
+      <g
+         id="g208"
+         transform="translate(296.72088,-33.572088)">
+        <rect
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+           id="rect203"
+           width="40.824783"
+           height="11.69712"
+           x="270.78171"
+           y="210.05161" />
+        <text
+           inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           id="text817-36-56-6-5"
+           y="218.57722"
+           x="291.29523"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.38159px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059"
+             y="218.57722"
+             x="291.29523"
+             id="tspan815-7-2-2-5"
+             sodipodi:role="line">Hola.html</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g1188"
+       transform="translate(-35.116878,3.8322672)">
+      <g
+         id="g242"
+         transform="translate(-297.98703,6.769363)"
+         style="fill:#e6e6e6">
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 561.29849,123.95458 h 41.16278 l 10.88061,10.88829 v 56.54037 h -51.51902 z"
+           id="path904-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,138.28367 h 26.72695"
+           id="path906-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,146.03448 h 26.72695"
+           id="path906-7-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,155.12164 h 26.72695"
+           id="path906-7-5-32"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,163.67427 h 26.72695"
+           id="path906-7-5-3-06"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,172.76143 h 26.72695"
+           id="path906-7-5-3-5-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,181.29901 h 26.72695"
+           id="path233"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.12439px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.570275"
+       x="282.77463"
+       y="237.74988"
+       id="text1634"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-01.png"><tspan
+         sodipodi:role="line"
+         x="282.77463"
+         y="237.74988"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:0.570275"
+         id="tspan1636">DISCO DURO</tspan></text>
+    <text
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-01.png"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       id="text821-5"
+       y="265.59082"
+       x="286.39792"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.684874"
+       xml:space="preserve"><tspan
+         id="tspan982-3"
+         style="fill:#0000ff;stroke-width:0.684874"
+         y="265.59082"
+         x="286.39792"
+         sodipodi:role="line">Sistema de ficheros</tspan></text>
+    <circle
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1.71137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path862-7"
+       cx="55.914337"
+       cy="84.985901"
+       r="45.466843"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-01.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.958px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.684875"
+       x="56.242645"
+       y="80.86602"
+       id="text821"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-01.png"><tspan
+         sodipodi:role="line"
+         id="tspan819"
+         x="56.242645"
+         y="80.86602"
+         style="fill:#0000ff;stroke-width:0.684875">Servidor</tspan><tspan
+         sodipodi:role="line"
+         x="56.242645"
+         y="94.563522"
+         style="fill:#0000ff;stroke-width:0.684875"
+         id="tspan982">web</tspan></text>
+    <rect
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.05833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2929"
+       width="103.70421"
+       height="70.049522"
+       x="-164.73145"
+       y="-44.699024" />
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5158"
+       width="26.374302"
+       height="13.898015"
+       x="-158.53792"
+       y="-36.770161"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-145.3998"
+       y="-26.204975"
+       id="text817-36-5-7-3-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"><tspan
+         sodipodi:role="line"
+         id="tspan815-7-3-5-5-5"
+         x="-145.3998"
+         y="-26.204975"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">GET</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect567"
+       width="59.665115"
+       height="13.898015"
+       x="-125.64302"
+       y="-36.770161"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-96.408089"
+       y="-26.975893"
+       id="text571"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"><tspan
+         sodipodi:role="line"
+         id="tspan569"
+         x="-96.408089"
+         y="-26.975893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">/Hola.html</tspan></text>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect567-3"
+       width="70.972099"
+       height="23.744053"
+       x="-158.49953"
+       y="-19.302269"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-128.15852"
+       y="-8.5289154"
+       id="text817-36-5-7-3-6-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"><tspan
+         sodipodi:role="line"
+         id="tspan815-7-3-5-5-5-7"
+         x="-128.15852"
+         y="-8.5289154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">Cabeceras</tspan></text>
+    <rect
+       style="fill:#80b3ff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1525"
+       width="103.70421"
+       height="15.740419"
+       x="-164.73145"
+       y="9.6100807" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="-128.54213"
+       y="21.74461"
+       id="text1529"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"><tspan
+         sodipodi:role="line"
+         id="tspan1527"
+         x="-128.54213"
+         y="21.74461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">Cuerpo</tspan></text>
+    <rect
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.529167;stroke-linecap:round"
+       id="rect2935"
+       width="103.67547"
+       height="97.886612"
+       x="67.744408"
+       y="211.19656" />
+    <rect
+       style="fill:#008000;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1970"
+       width="103.70421"
+       height="50.343555"
+       x="67.969841"
+       y="270.6738" />
+    <g
+       id="g1423"
+       transform="translate(107.3479,-2.9953177)">
+      <rect
+         style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1.16044;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect5158-9"
+         width="22.149996"
+         height="15.36033"
+         x="110.22833"
+         y="303.68643"
+         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+         x="120.83276"
+         y="315.12976"
+         id="text1980"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90"
+         inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"><tspan
+           sodipodi:role="line"
+           id="tspan1978"
+           x="120.83276"
+           y="315.12976"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">OK</tspan></text>
+    </g>
+    <rect
+       style="fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1982"
+       width="70.972099"
+       height="23.744053"
+       x="216.93306"
+       y="322.04001"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.1369px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.696059"
+       x="248.52377"
+       y="336.84125"
+       id="text1968"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/myTeachingURJC/2018-19-CSAAI/wiki/S01-intro-web/figura-04.png"><tspan
+         sodipodi:role="line"
+         id="tspan1966"
+         x="248.52377"
+         y="336.84125"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:ubuntu;stroke-width:0.696059">Cabeceras</tspan></text>
+    <circle
+       style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:1.71137;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle1904"
+       cx="-191.53957"
+       cy="88.738937"
+       r="28.210796"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-01.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.12439px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.570275"
+       x="-191.8708"
+       y="91.490829"
+       id="text1634-6"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S02/webserver-01.png"><tspan
+         sodipodi:role="line"
+         x="-191.8708"
+         y="91.490829"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:ubuntu;-inkscape-font-specification:'ubuntu Medium';fill:#000000;stroke-width:0.570275"
+         id="tspan1636-5">Cliente</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2">
+    <g
+       id="g1188-1"
+       transform="translate(201.10485,66.527329)">
+      <g
+         id="g242-2"
+         transform="translate(-297.98703,6.769363)"
+         style="fill:#e6e6e6">
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 561.29849,123.95458 h 41.16278 l 10.88061,10.88829 v 56.54037 h -51.51902 z"
+           id="path904-1-7"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccc" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,138.28367 h 26.72695"
+           id="path906-0-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,146.03448 h 26.72695"
+           id="path906-7-6-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,155.12164 h 26.72695"
+           id="path906-7-5-32-3"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,163.67427 h 26.72695"
+           id="path906-7-5-3-06-6"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,172.76143 h 26.72695"
+           id="path906-7-5-3-5-1-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 572.40356,181.29901 h 26.72695"
+           id="path233-6"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>
