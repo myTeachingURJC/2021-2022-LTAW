@@ -8,7 +8,7 @@ const server = http.createServer();
 //-- Se llama a esta función
 function atender(req, res) {
     //-- req: http.IncomingMessage: Mensaje de solicitud
-    //-- res: http.SercerResponse: Mensaje de respuesta (vacío)
+    //-- res: http.ServerResponse: Mensaje de respuesta (vacío)
 
     //-- Indicamos que se ha recibido una petición
     console.log("Petición recibida!");
