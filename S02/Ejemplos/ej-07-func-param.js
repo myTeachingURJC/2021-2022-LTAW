@@ -28,7 +28,7 @@ function call(func) {
 //-- Llamar a suma
 let a = suma(2,3);
 
-//-- Probando la funcione mensaje
+//-- Probando la funcion mensaje
 mensaje("Prueba")
 mensaje(a);
 
@@ -36,7 +36,7 @@ mensaje(a);
 call(saluda);
 
 //-- Se le pasa como parametro una funcion
-//-- que se define dentro de los parmatros, vez de 
+//-- que se define dentro de los parametros, vez de 
 //-- fuera
 call( () => {
   mensaje("HOLI!!")
