@@ -13,7 +13,7 @@ function print_info_req(req) {
     console.log("Version: " + req.httpVersion)
     console.log("Cabeceras: ");
 
-    //-- Recorrer todas las cabeceras disponislbes
+    //-- Recorrer todas las cabeceras disponibles
     //-- imprimiendo su nombre y su valor
     for (hname in req.headers)
       console.log(`  * ${hname}: ${req.headers[hname]}`);
