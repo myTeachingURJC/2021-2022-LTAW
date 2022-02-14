@@ -1,0 +1,5 @@
+[
+    "FPGA-1", "RISC-V", "74LS00",
+    "FPGA-2", "74ls01", "AVR",
+    "Arduino-UNO"
+]
