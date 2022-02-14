@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Definicion de mi tienda -->
+<!DOCTYPE tienda SYSTEM "tienda.dtd">
+
+<tienda>
+    <producto>
+        <nombre>Alhambra II</nombre>
+        <descripcion>Placa con FPGA ice40HX8K</descripcion>
+        <stock>3</stock>
+    </producto>
+
+    <producto>
+        <nombre>Icestick</nombre>
+        <stock>10</stock>
+    </producto>
+</tienda>

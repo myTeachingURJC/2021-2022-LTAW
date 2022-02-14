@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="385.8187mm"
+   height="266.10193mm"
+   viewBox="0 0 385.8187 266.10193"
+   version="1.1"
+   id="svg925"
+   inkscape:version="1.0.2 (1c82d34291, 2021-03-05)"
+   sodipodi:docname="xml-03.svg">
+  <defs
+     id="defs919">
+    <marker
+       style="overflow:visible"
+       id="marker3797"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3795" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3787"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3785" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3543"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3541" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3533"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3531" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3249"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3247" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3239"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path3237" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker3113"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3111" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2979"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2977" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2237" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2733"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2731" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2255" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2125"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2123" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1909"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1907" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1672"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1670" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1443"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1441" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1157"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1155" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1041"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1039" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1870"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1868" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2778"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path2776" />
+    </marker>
+    <linearGradient
+       x1="21"
+       y1="101"
+       x2="21"
+       y2="179"
+       id="mx-gradient-232f3e-100-232f3e-100-s-0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.26458333,0,0,0.26458333,-47.183037,-32.355657)">
+      <stop
+         offset="0%"
+         style="stop-color:#232F3E"
+         id="stop1396" />
+      <stop
+         offset="100%"
+         style="stop-color:#232F3E"
+         id="stop1398" />
+    </linearGradient>
+    <linearGradient
+       x1="0"
+       y1="1"
+       x2="0"
+       y2="0"
+       id="mx-gradient-f34482-1-bc1356-1-s-0">
+      <stop
+         offset="0%"
+         style="stop-color:#BC1356"
+         id="stop1401" />
+      <stop
+         offset="100%"
+         style="stop-color:#F34482"
+         id="stop1403" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="922.57972"
+     inkscape:cy="392.45483"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata922">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="back"
+     transform="translate(70.968773,36.956688)">
+    <rect
+       style="fill:#ffffff;stroke:none;stroke-width:0.264999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3070"
+       width="385.8187"
+       height="266.10193"
+       x="-70.968773"
+       y="-36.956688"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(70.968773,36.956688)">
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2967"
+       width="27.377897"
+       height="14.595748"
+       x="64.610382"
+       y="189.18237"
+       ry="2.3528407" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59983px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-20.287191"
+       y="151.80162"
+       id="text1233"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-20.287191"
+         y="151.80162"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1237">Base de datos</tspan></text>
+    <path
+       style="display:inline;fill:#ffeeaa;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -40.136296,86.53565 h 28.45348 l 9.1903695,7.36579 v 27.68363 H -39.939396 Z"
+       id="path1527"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -35.957746,108.28426 H -7.9250965"
+       id="path1523"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -35.957746,113.63496 H -7.9250965"
+       id="path1525"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -36.259526,92.93718 h 18.61822"
+       id="path1529"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -35.957746,97.83444 H -7.9250965"
+       id="path1531"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -35.957746,102.87631 H -7.9250965"
+       id="path1533"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path957"
+       cx="55.235325"
+       cy="41.281094"
+       rx="44.997173"
+       ry="16.557898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.15127"
+       y="44.48164"
+       id="text1902"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan1900"
+         x="28.15127"
+         y="44.48164"
+         style="stroke-width:0.264583">Aplicación</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect989"
+       width="17.997517"
+       height="6.5897946"
+       x="-45.028797"
+       y="83.172897" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.27165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-35.913425"
+       y="88.23954"
+       id="text985"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="-35.913425"
+         y="88.23954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27165px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan983">XML</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1300"
+       width="30.249146"
+       height="22.066097"
+       x="-26.344107"
+       y="117.20758" />
+    <path
+       d="m -5.0487765,130.6617 c 0.23279,-0.79382 0.31037,-1.61153 0.31037,-2.477 0,-6.04628 -4.91223,-10.52279 -10.6720195,-10.52279 -4.99578,0 -10.55262,3.8856 -10.55262,10.67202 0,5.37777 4.43472,10.30791 10.88687,10.30791 3.59913,-0.21499 6.1716295,-1.70705 8.0577295,-4.0408 l -3.9333595,-3.3723 1.4324795,-2.30393 z m 9.84832,7.28776 c 0,0.95501 -0.7998,2.1368 -2.32179,2.1368 H -25.067756 c -1.33102,0 -2.3636,-1.0087 -2.3636,-2.22631 v -19.3863 c 0,-1.4862 1.30119,-2.26213 2.24424,-2.26213 H 2.4896835 c 1.31908,0 2.30986,1.09227 2.30986,2.1905 z m -6.52973,0.0298 c 0.65059,0.42379 1.16987002,0.68642 1.80253002,0.68642 1.55186998,0 2.52476998,-1.25343 2.52476998,-2.39344 0,-1.26537 -0.74011,-2.00548 -1.79060998,-2.49492 l -9.92593002,-3.74835 -0.62671,1.06841 z m 3.08582,-1.713 c 0,0.56106 -0.47152998,0.94305 -0.90724998,0.94305 -0.7222,0 -0.97885,-0.6088 -0.97885,-0.89529 0,-0.72222 0.60879,-0.96694 0.93111,-0.96694 0.54911,0 0.95498998,0.44168 0.95498998,0.91918 z m -13.3937395,-8.06369 c 0,1.89803 -1.63543,3.24695 -3.22907,3.24695 -2.02935,0 -3.3902,-1.5638 -3.3902,-3.18131 -0.0298,-1.96965 1.5399,-3.43796 3.39618,-3.37229 1.66526,0 3.22309,1.37875 3.22309,3.30665 z"
+       fill="#505050"
+       stroke="none"
+       pointer-events="all"
+       id="path1003"
+       style="stroke-width:0.264583" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2778)"
+       d="m 16.797364,50.036775 -33.28771,35.749553"
+       id="path2774"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+       id="g1440"
+       transform="matrix(0.26458333,0,0,0.26458333,133.42637,-151.80626)" />
+    <path
+       style="display:inline;fill:#ffeeaa;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.628278,86.53565 h 28.45348 l 9.19037,7.36579 v 27.68363 h -37.44695 z"
+       id="path1638"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.806828,108.28426 h 28.03265"
+       id="path1640"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.806828,113.63496 h 28.03265"
+       id="path1642"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.505048,92.93718 h 18.61822"
+       id="path1644"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.806828,97.83444 h 28.03265"
+       id="path1646"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.806828,102.87631 h 28.03265"
+       id="path1648"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1650"
+       width="17.997517"
+       height="6.5897946"
+       x="19.735773"
+       y="83.172897" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.27165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="28.851145"
+       y="88.23954"
+       id="text1654"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="28.851145"
+         y="88.23954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27165px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan1652">XML</tspan></text>
+    <rect
+       style="fill:#505050;stroke:none;stroke-width:0.529166;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1632"
+       width="26.948904"
+       height="23.452787"
+       x="44.218578"
+       y="116.34185"
+       ry="2.7896912" />
+    <path
+       d="m 61.617386,128.30037 c -0.100729,0 -0.201416,0.0396 -0.27334,0.11146 -0.0719,0.0719 -0.111462,0.17264 -0.111462,0.27335 l 0.0109,0.56108 c -0.284132,0.0935 -0.54309,0.20859 -0.784067,0.33807 l -0.359654,-0.41001 c -0.07189,-0.0791 -0.169038,-0.12588 -0.273336,-0.12955 -0.104227,-0.004 -0.205019,0.036 -0.280548,0.11147 l -1.391903,1.3775 c -0.0791,0.0756 -0.11868,0.17984 -0.11145,0.28774 0.003,0.10793 0.054,0.2086 0.14028,0.27334 l 0.399227,0.3237 c -0.133076,0.24097 -0.244577,0.49993 -0.327297,0.78406 l -0.51791,-0.004 c -0.20861,-0.004 -0.377669,0.16545 -0.381249,0.37406 l -0.0251,1.90262 c 0,0.10426 0.0396,0.20501 0.115129,0.27695 0.0755,0.0719 0.17985,0.11146 0.28414,0.10793 l 0.52511,-0.0288 c 0.0683,0.26616 0.183412,0.52512 0.348867,0.78408 l -0.413607,0.37045 c -0.0791,0.0719 -0.12236,0.16904 -0.12588,0.27334 -0.003,0.10426 0.0361,0.205 0.11145,0.27694 l 1.359521,1.35952 c 0.07189,0.0756 0.176239,0.11514 0.280537,0.11147 0.104227,-0.004 0.201418,-0.0504 0.269746,-0.12955 l 0.348877,-0.39923 c 0.240968,0.14386 0.514321,0.25535 0.82363,0.33448 l -0.0109,0.58266 c -0.0041,0.10073 0.03602,0.19782 0.104259,0.26974 0.07191,0.0719 0.165448,0.11146 0.266148,0.11514 l 1.917008,0.0288 c 0.107934,0 0.208606,-0.0432 0.284132,-0.12234 0.07191,-0.0791 0.107935,-0.18343 0.100729,-0.28773 l -0.04323,-0.52151 c 0.291337,-0.10793 0.557486,-0.23019 0.80565,-0.37046 l 0.384847,0.41362 c 0.0719,0.0756 0.169037,0.11868 0.27334,0.11868 0.10426,0.004 0.201416,-0.0396 0.276943,-0.11146 l 1.345138,-1.37752 c 0.07558,-0.0756 0.115137,-0.18342 0.107935,-0.29133 -0.0067,-0.10793 -0.0575,-0.205 -0.14386,-0.27334 l -0.381245,-0.29492 c 0.129547,-0.24097 0.237385,-0.51433 0.320101,-0.81645 l 0.553884,0.007 c 0.104259,0.004 0.201416,-0.036 0.27334,-0.10793 0.07191,-0.0719 0.111463,-0.17264 0.111463,-0.27334 l -0.01794,-1.94579 c 0,-0.10073 -0.04324,-0.19781 -0.115136,-0.26975 -0.07558,-0.0719 -0.172639,-0.10793 -0.276942,-0.10426 l -0.521518,0.0179 c -0.07558,-0.26973 -0.17983,-0.5251 -0.309307,-0.77327 l 0.40642,-0.3201 c 0.08278,-0.0684 0.13667,-0.16903 0.143861,-0.27334 0.0067,-0.10793 -0.03236,-0.21221 -0.107936,-0.29132 l -1.370312,-1.4063 c -0.07558,-0.0719 -0.176242,-0.11513 -0.280546,-0.11146 -0.104259,0 -0.205004,0.0468 -0.273339,0.12588 l -0.395628,0.43878 c -0.251766,-0.13667 -0.517915,-0.24457 -0.794856,-0.32729 l 0.05396,-0.51072 c 0.01441,-0.10426 -0.02162,-0.2122 -0.08986,-0.29133 -0.0719,-0.0791 -0.172638,-0.12587 -0.280544,-0.12941 z m 0.377644,0.76249 1.150926,0.0179 -0.03956,0.37045 c -0.02162,0.19421 0.107936,0.37404 0.294913,0.41361 0.445992,0.0935 0.838017,0.25536 1.183295,0.48555 0.158255,0.10426 0.366862,0.0756 0.492739,-0.0647 l 0.298528,-0.33089 0.794858,0.81644 -0.323704,0.25536 c -0.154655,0.12233 -0.187021,0.34527 -0.07558,0.51072 0.219385,0.3201 0.359659,0.69774 0.44958,1.12934 0.03956,0.17983 0.201401,0.30572 0.384833,0.30212 l 0.428008,-0.0179 0.0109,1.16891 -0.453168,-0.004 c -0.187021,-0.004 -0.345278,0.12955 -0.377644,0.31291 -0.07191,0.4352 -0.26975,0.84521 -0.471167,1.15812 -0.107935,0.16545 -0.06837,0.38483 0.08632,0.50712 l 0.294927,0.2302 -0.773271,0.79125 -0.298529,-0.3201 c -0.125877,-0.13667 -0.330881,-0.16185 -0.485548,-0.0575 -0.323691,0.21219 -0.740905,0.40642 -1.201265,0.54668 -0.169049,0.0503 -0.280544,0.2158 -0.266161,0.39204 l 0.02882,0.36685 -1.118548,-0.0144 0.0109,-0.48914 c 0.0041,-0.18703 -0.133082,-0.35247 -0.320088,-0.38124 -0.453182,-0.0684 -0.870397,-0.26976 -1.114964,-0.46038 -0.158248,-0.12588 -0.384848,-0.10426 -0.517914,0.0468 l -0.284126,0.32729 -0.791266,-0.79125 0.348869,-0.31291 c 0.07557,-0.0684 0.118676,-0.16185 0.122351,-0.26256 0.0061,-0.10426 -0.03234,-0.2014 -0.100794,-0.27694 -0.240966,-0.25536 -0.388428,-0.67976 -0.453164,-1.05382 -0.0323,-0.18702 -0.201416,-0.32369 -0.392029,-0.31289 l -0.424411,0.0216 0.0144,-1.12574 0.420807,0.004 c 0.183425,0 0.34167,-0.12941 0.374048,-0.31291 0.07188,-0.38484 0.269742,-0.80564 0.478338,-1.11136 0.115125,-0.16184 0.07912,-0.38483 -0.07556,-0.51072 l -0.316488,-0.25536 0.805634,-0.79486 0.273348,0.31292 c 0.12235,0.13667 0.327297,0.16903 0.481955,0.0719 0.366845,-0.22299 0.737297,-0.40642 1.161702,-0.50352 0.172639,-0.0396 0.294926,-0.19782 0.291337,-0.37406 z m 0.784077,1.93499 c -0.780476,-0.0468 -1.42787,0.26974 -1.87745,0.68695 -0.449577,0.41722 -0.719337,0.91354 -0.784063,1.37392 l 0.751697,0.10426 c 0.02882,-0.21221 0.219386,-0.62222 0.546679,-0.92434 0.323704,-0.30212 0.758902,-0.51433 1.305582,-0.48195 0.510723,0.0647 0.809238,0.24457 1.053814,0.49633 0.07558,0.0756 0.122339,0.19062 0.18702,0.28055 l -0.618616,-0.0647 -0.07558,0.7553 1.417075,0.14386 c 0.176227,0.0179 0.341676,-0.0899 0.399217,-0.25896 l 0.399229,-1.22285 -0.719318,-0.23378 -0.161858,0.48913 c -0.10074,-0.14386 -0.151052,-0.28413 -0.287722,-0.4208 -0.345277,-0.35247 -0.838016,-0.6402 -1.514187,-0.72292 -0.0067,0 -0.01441,0 -0.02162,0 z m -2.359397,2.71906 c -0.172638,0.007 -0.320107,0.1294 -0.356066,0.29851 l -0.280536,1.33076 0.7409,0.15825 0.09353,-0.44239 c 0.147463,0.17983 0.302117,0.35966 0.499931,0.51073 0.474756,0.35966 1.12215,0.56826 1.902625,0.46755 0.0144,0 0.02515,-0.004 0.03956,-0.007 1.03583,-0.24817 1.733575,-0.96029 2.010516,-1.93499 l -0.726523,-0.20501 c -0.219386,0.75889 -0.64379,1.19768 -1.442251,1.3955 -0.59344,0.0684 -0.996259,-0.0719 -1.330741,-0.3201 -0.129412,-0.10072 -0.237385,-0.23019 -0.345278,-0.35967 l 0.46755,0.0756 0.122339,-0.74811 -1.319956,-0.2158 c -0.0251,-0.004 -0.05034,-0.004 -0.07556,-0.004 z M 48.802587,119.38792 c -0.20861,0 -0.37766,0.16904 -0.37766,0.37764 v 14.76778 c 0,0.2086 0.16905,0.37764 0.37766,0.37764 h 7.77232 v -0.75529 h -7.39468 v -14.00888 h 15.551841 v 7.75433 h 0.758888 v -8.13558 c 0,-0.2086 -0.169036,-0.37764 -0.381231,-0.37764 z m 2.30184,1.49979 c -0.20861,0 -0.37765,0.16904 -0.37765,0.37764 v 2.78739 h -0.37764 c -0.2086,0 -0.37766,0.16905 -0.37766,0.37765 v 1.55374 c 0,0.20861 0.16906,0.37766 0.37766,0.37766 h 0.37764 v 6.59623 c 0,0.21219 0.16904,0.38123 0.37765,0.38123 h 1.5933 c 0.20861,0 0.37766,-0.16904 0.37766,-0.38123 v -6.59623 h 0.40281 c 0.20861,0 0.37765,-0.16905 0.37765,-0.37766 v -1.55374 c 0,-0.2086 -0.16904,-0.37765 -0.37765,-0.37765 h -0.40281 v -2.78739 c 0,-0.2086 -0.16905,-0.37764 -0.37766,-0.37764 z m 5.06766,0.054 c -0.20862,0 -0.37766,0.16904 -0.37766,0.37765 v 5.82294 h -0.38843 c -0.20861,0 -0.37765,0.16905 -0.37765,0.37765 v 1.59331 c 0,0.2086 0.16904,0.37764 0.37765,0.37764 h 0.38843 v 3.51032 c 0,0.2086 0.16904,0.37765 0.37766,0.37765 h 0.38125 v -3.88797 h 0.80205 v 0.35607 h 0.758889 v -0.35607 h 0.41361 c 0.212199,0 0.381247,-0.16904 0.381247,-0.37764 v -1.59331 c 0,-0.2086 -0.169048,-0.37765 -0.381247,-0.37765 h -0.41361 v -5.82294 c 0,-0.20861 -0.17265,-0.37765 -0.38125,-0.37765 z m 5.064054,0.0109 c -0.208606,0 -0.377643,0.16905 -0.377643,0.37766 v 1.56813 H 60.46287 c -0.208609,0 -0.377646,0.16903 -0.377646,0.37764 v 1.53576 c 0,0.20861 0.169037,0.37766 0.377646,0.37766 h 0.395628 v 2.3342 h 0.758888 v -2.3342 h 0.80565 v 2.3342 h 0.758888 v -2.3342 h 0.417215 c 0.208593,0 0.377642,-0.16905 0.377642,-0.37766 v -1.53578 c 0,-0.20861 -0.169049,-0.37764 -0.377642,-0.37764 h -0.417215 v -1.56813 c 0,-0.20861 -0.172638,-0.37766 -0.381245,-0.37766 z m -9.750474,0.69056 h 0.83083 v 2.40974 h -0.83083 z m 5.06767,0.054 h 0.80205 v 5.4453 h -0.80205 z m 5.064049,0.0109 h 0.80565 v 1.19048 h -0.80565 z m -0.77327,1.94577 h 2.377365 v 0.78047 h -2.377365 z m -10.117339,1.15453 h 2.37378 v 0.79844 h -2.37378 z m 0.75889,1.55374 h 0.83083 v 6.21857 h -0.83083 z m 4.29798,1.53576 h 2.366599 v 0.83802 h -2.366599 z"
+       fill="#ffffff"
+       stroke="none"
+       pointer-events="all"
+       id="path1624"
+       style="fill:#f2f2f2;stroke-width:0.264583" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59983px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="48.258366"
+       y="149.75415"
+       id="text1658"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="48.258366"
+         y="149.75415"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1656">Archivo de</tspan><tspan
+         sodipodi:role="line"
+         x="48.258366"
+         y="159.25394"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1660">configuración</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1672)"
+       d="M 46.987063,57.687281 43.057401,84.63456"
+       id="path1668"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#ffeeaa;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 92.221889,86.53565 h 28.453481 l 9.19037,7.36579 v 27.68363 H 92.418789 Z"
+       id="path1851"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 96.400439,108.28426 H 124.43309"
+       id="path1853"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 96.400439,113.63496 H 124.43309"
+       id="path1855"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 96.098659,92.93718 H 114.71688"
+       id="path1857"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 96.400439,97.83444 H 124.43309"
+       id="path1859"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 96.400439,102.87631 H 124.43309"
+       id="path1861"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1863"
+       width="17.997517"
+       height="6.5897946"
+       x="87.329384"
+       y="83.172897" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.27165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="96.444756"
+       y="88.23954"
+       id="text1867"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="96.444756"
+         y="88.23954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27165px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan1865">XML</tspan></text>
+    <rect
+       x="141.21312"
+       y="145.28462"
+       width="21.093845"
+       height="18.984463"
+       fill="none"
+       stroke="none"
+       pointer-events="all"
+       id="rect1882"
+       style="stroke-width:0.264583" />
+    <g
+       id="g2721"
+       transform="translate(121.58251,104.1224)">
+      <rect
+         style="fill:#505050;stroke:none;stroke-width:0.529166;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect1888"
+         width="26.152836"
+         height="23.286757"
+         x="-13.136936"
+         y="13.957007"
+         ry="2.769942" />
+      <path
+         d="m 0.02476814,19.564143 2.12444176,-1.95019 c 0.196503,-0.166839 0.4189578,-0.266946 0.6896031,-0.270645 h 4.793914 c 0.5005132,0 1.0974345,0.415244 1.0974345,1.123386 v 1.097449 z M -9.8077389,34.027425 V 21.484668 c 0,-0.615461 0.552431,-1.082609 1.086323,-1.082609 H 8.7301615 v 13.625366 z"
+         fill="#505050"
+         stroke="none"
+         pointer-events="all"
+         id="path1884"
+         style="fill:#f2f2f2;stroke-width:0.264583" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59983px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.05659"
+       y="149.75415"
+       id="text1897"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="122.05659"
+         y="149.75415"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1893">Archivo de</tspan><tspan
+         sodipodi:role="line"
+         x="122.05659"
+         y="159.25394"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan1895">proyecto</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1909)"
+       d="M 92.336336,50.651262 111.82462,86.201928"
+       id="path1905"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <ellipse
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="ellipse2079"
+       cx="252.88101"
+       cy="41.281094"
+       rx="44.997173"
+       ry="16.557898" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="225.79695"
+       y="44.48164"
+       id="text2083"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan2081"
+         x="225.79695"
+         y="44.48164"
+         style="stroke-width:0.264583">Aplicación</tspan></text>
+    <path
+       style="display:inline;fill:#ffeeaa;stroke:#000000;stroke-width:0.793751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 134.36943,-11.295239 h 28.45348 l 9.19037,7.3657905 V 23.754184 h -37.44695 z"
+       id="path2095"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.54798,10.453374 h 28.03265"
+       id="path2097"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.54798,15.804074 h 28.03265"
+       id="path2099"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.2462,-4.8937085 h 18.61822"
+       id="path2101"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.54798,0.00355148 h 28.03265"
+       id="path2103"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="display:inline;fill:#808080;stroke:#808080;stroke-width:2.64583;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 138.54798,5.0454245 h 28.03265"
+       id="path2105"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/lenguaje-08.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2107"
+       width="17.997517"
+       height="6.5897946"
+       x="129.47693"
+       y="-14.65799" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.27165px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="138.5923"
+       y="-9.5913553"
+       id="text2111"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="138.5923"
+         y="-9.5913553"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.27165px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
+         id="tspan2109">XML</tspan></text>
+    <rect
+       style="fill:#f2f2f2;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2113"
+       width="22.052479"
+       height="13.988556"
+       x="155.66399"
+       y="14.850753" />
+    <path
+       d="m 177.95116,28.990309 c 0.0124,-0.0384 0.0209,-0.0788 0.0209,-0.12144 V 14.812354 c 0,-0.0429 -0.008,-0.0836 -0.0212,-0.12224 -0.002,-0.005 -0.003,-0.0106 -0.005,-0.0159 -0.0169,-0.0452 -0.0418,-0.086 -0.073,-0.12171 -0.002,-0.002 -0.002,-0.005 -0.005,-0.008 -0.001,-10e-4 -0.003,-0.002 -0.004,-0.003 -0.0333,-0.0354 -0.0728,-0.064 -0.11694,-0.0855 -0.003,-0.002 -0.006,-0.004 -0.01,-0.005 -0.0418,-0.0188 -0.0873,-0.0294 -0.1352,-0.0325 -0.005,-2.7e-4 -0.009,-0.001 -0.014,-0.001 -0.005,-2.7e-4 -0.008,-10e-4 -0.013,-10e-4 h -22.01466 c -0.005,0 -0.009,10e-4 -0.0132,10e-4 -0.004,2.6e-4 -0.009,0.001 -0.0127,0.001 -0.0484,0.003 -0.0947,0.014 -0.13705,0.0331 -0.003,10e-4 -0.005,0.003 -0.007,0.004 -0.045,0.0214 -0.0849,0.0505 -0.11854,0.0865 -0.001,10e-4 -0.003,0.002 -0.004,0.003 -0.002,0.002 -0.002,0.005 -0.005,0.007 -0.0312,0.0357 -0.0564,0.0767 -0.0733,0.12197 -0.002,0.005 -0.003,0.0106 -0.005,0.0161 -0.0127,0.0386 -0.0212,0.0794 -0.0212,0.12224 v 14.056775 c 0,0.0434 0.009,0.0847 0.0217,0.12382 0.002,0.005 0.003,0.0103 0.005,0.0156 0.0172,0.0455 0.0426,0.0865 0.0741,0.12224 0.002,0.002 0.002,0.005 0.004,0.007 0.002,0.002 0.004,0.003 0.006,0.005 0.013,0.0135 0.0272,0.0254 0.0421,0.037 0.007,0.005 0.0124,0.0111 0.0193,0.0159 0.0175,0.0122 0.0362,0.022 0.0556,0.031 0.005,0.002 0.009,0.006 0.0138,0.007 0.0479,0.0204 0.10054,0.032 0.15584,0.032 h 22.0144 c 0.0553,0 0.10795,-0.0114 0.15584,-0.032 0.007,-0.003 0.0143,-0.008 0.0214,-0.0116 0.0164,-0.008 0.0328,-0.0167 0.0479,-0.027 0.008,-0.006 0.0151,-0.0127 0.0228,-0.0188 0.0135,-0.0108 0.0267,-0.0217 0.0384,-0.0341 0.002,-0.002 0.005,-0.004 0.007,-0.006 0.002,-0.002 0.003,-0.006 0.005,-0.008 0.031,-0.0354 0.0558,-0.0762 0.0728,-0.12118 0.003,-0.006 0.004,-0.0114 0.006,-0.0172 z m -21.9935,-13.277845 6.67995,6.10156 -6.67995,6.150235 z m 13.69114,5.80258 c -0.0275,0.018 -0.0566,0.0331 -0.0796,0.0585 -0.009,0.01 -0.0116,0.022 -0.0193,0.032 l -2.98185,2.723617 -9.98433,-9.119917 h 19.96865 z m -6.42276,0.83635 3.0742,2.808017 c 0.0759,0.0693 0.17171,0.10398 0.26776,0.10398 0.096,0 0.19182,-0.0347 0.26749,-0.10398 l 3.03609,-2.773097 6.67888,6.085945 h -19.97261 z m 7.23424,-0.50271 6.71804,-6.13622 v 12.258145 z"
+       id="path2085"
+       style="stroke-width:0.264583" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#marker2125)"
+       d="m 103.59949,40.120159 100.99023,0.679986"
+       id="path2121"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59983px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="154.01952"
+       y="-19.326546"
+       id="text2705"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="154.01952"
+         y="-19.326546"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan2703">Mensajes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59983px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="156.98936"
+       y="53.078575"
+       id="text2713"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="156.98936"
+         y="53.078575"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan2711">Intercambio</tspan><tspan
+         sodipodi:role="line"
+         x="156.98936"
+         y="62.578362"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan2717">de datos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.93499px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="78.421478"
+       y="199.98352"
+       id="text2963"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="78.421478"
+         y="199.98352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.93499px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264584"
+         id="tspan2961">ODF</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3239);marker-end:url(#marker3249)"
+       d="m 89.91319,187.34252 13.77523,-25.41185"
+       id="path3235"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3511"
+       width="31.059752"
+       height="14.595748"
+       x="107.5224"
+       y="189.18237"
+       ry="2.3528407" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.93499px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="122.788"
+       y="199.98352"
+       id="text3515"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="122.788"
+         y="199.98352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.93499px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264584"
+         id="tspan3513">HTML</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3533);marker-end:url(#marker3543)"
+       d="m 123.11539,187.34252 -0.18747,-25.65765"
+       id="path3529"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3765"
+       width="31.059752"
+       height="14.595748"
+       x="149.96582"
+       y="189.18237"
+       ry="2.3528407" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.93499px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584"
+       x="165.23141"
+       y="199.98352"
+       id="text3769"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="165.23141"
+         y="199.98352"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.93499px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264584"
+         id="tspan3767">PDF</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.79375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker3787);marker-end:url(#marker3797)"
+       d="M 153.18623,187.34252 139.411,161.93067"
+       id="path3783"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.59983px;line-height:1.25;font-family:sans-serif;text-align:center;text-anchor:middle;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.65628"
+       y="215.30345"
+       id="text4067"
+       inkscape:export-filename="/home/obijuan/Develop/myTeachingURJC/2020-2021-LTAW/S01/sgml-03.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         x="124.65628"
+         y="215.30345"
+         style="font-size:7.59983px;text-align:center;text-anchor:middle;fill:#0000ff;stroke-width:0.264583"
+         id="tspan4065">Conversión entre formatos</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Utilizacion de dos espacios de nombres
+     para dos etiquetas producto que tienen
+    estructuras diferentes -->
+
+<tienda xmlns:t1="http://obijuan.github.io/Tienda-1"
+        xmlns:t2="http://w3c.definitions/Store/es">
+
+    <t1:producto>
+        Un producto
+    </t1:producto>
+
+    <!-- Esta etiqueta producto tiene
+         otra estructura -->
+    <t2:producto>
+        <nombre>Otro producto</nombre>
+        <origen>España</origen>
+    </t2:producto>
+
+</tienda>

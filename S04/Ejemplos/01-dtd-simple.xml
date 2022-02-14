@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Declaracion de la gramatica -->
+<!DOCTYPE tienda [
+    <!ELEMENT tienda (#PCDATA)>
+]>
+
+<!-- Dentro del elemento tienda solo puede haber
+     cadenas de texto. Ninguna etiqueta -->
+<tienda>
+    Esta es mi tienda
+</tienda>

@@ -1,0 +1,14 @@
+<!-- Documento de definicion de mi tienda -->
+
+<!-- Elemento raiz -->
+<!-- La tienda esta compuesta de productos:  
+     Ninguno, uno o muchos                  -->
+<!ELEMENT tienda (producto*)>
+
+<!-- La descripcion de los productos es opcional -->
+<!ELEMENT producto (nombre, descripcion?, stock)>
+
+<!-- Elementos simples -->
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT stock (#PCDATA)>
