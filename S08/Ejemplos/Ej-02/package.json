@@ -1,0 +1,14 @@
+{
+    "name": "ejemplo-2",
+    "description": "Mi primer proyecto",
+    "version": "0.0.1",
+    "author": "Juan Gonzalez-Gómez (Obijuan)",
+    "main": "Ej-02.js",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "colors": "^1.4.0"
+    },
+    "scripts": {
+        "start": "node Ej-02.js"
+    }
+}
