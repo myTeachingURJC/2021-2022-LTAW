@@ -1,0 +1,18 @@
+{
+    "productos": [
+        {
+            "nombre": "A",
+            "precio": 10
+        },
+        {
+            "nombre": "B",
+            "precio": 20
+        }
+    ],
+    "pedidos": [
+        {
+            "cliente": "Chuck Norris",
+            "Direccion": "puedo vivir donde quiera"  
+        }
+    ]
+}
