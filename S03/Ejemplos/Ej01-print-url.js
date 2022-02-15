@@ -1,3 +1,8 @@
+//-- EJEMPLO 1. MODULO URL
+//-- Accediendo a los distintos campos del objeto URL
+//-- Los campos se imprimen en la consola
+
+
 //-- Construir un objeto URL
 const myURL = new URL('http://localhost:8080/mi_tienda/listados.html?articulo=pendrive&color=blanco#descripcion');
 

@@ -1,7 +1,10 @@
+//-- Ejemplo 11. MODULO FS
+//-- Gestión de errores en lectura ASÍNCRONA
+
 const fs = require('fs');
 
 //-- Fichero a leer
-const FICHERO = 'fich11.txt';
+const FICHERO = 'fich1.txt';
 
 fs.readFile(FICHERO, 'utf8', (err, data) => {
 

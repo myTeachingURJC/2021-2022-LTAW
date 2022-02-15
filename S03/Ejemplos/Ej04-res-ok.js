@@ -1,3 +1,6 @@
+//-- Ejemplo 4. MODULO HTTP
+//-- Ejemplo de generación de mensajes de respuesta: HAPPY SERVER
+
 const http = require('http');
 
 const PUERTO = 8080;

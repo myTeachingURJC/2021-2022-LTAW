@@ -1,3 +1,6 @@
+//-- Ejemplo 5. MODULO HTTP
+//-- Angry Server: Devuelve siempre mensajes de error
+
 const http = require('http');
 
 const PUERTO = 8080;

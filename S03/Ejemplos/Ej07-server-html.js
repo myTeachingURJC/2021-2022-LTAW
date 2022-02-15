@@ -1,3 +1,8 @@
+//-- Ejemplo 7. MODULO HTTP
+//-- Servidor que devuelve una página en HTML cuando se le pide
+//-- el recurso raiz (/), y devuelve una página de ERROR también
+//-- en HTML cuando se pide cualquier otro recurso
+
 const http = require('http');
 
 const PUERTO = 8080;

@@ -1,3 +1,7 @@
+//-- Ejemplo 6. MODULO HTTP
+//-- Happy server en HTML. El mensaje devuelto por el servidor
+//-- está en HTML, en vez de en texto plano
+
 const http = require('http');
 
 const PUERTO = 8080;

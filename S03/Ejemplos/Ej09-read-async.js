@@ -1,3 +1,6 @@
+//-- Ejemplo 9. MODULO FS
+//-- Lectura ASÍNCRONA de un fichero de texto
+
 //-- Importar el módulo FS
 const fs = require('fs');
 

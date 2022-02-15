@@ -1,3 +1,6 @@
+//-- Ejemplo 2. MODULO HTTP
+//-- Servidor que muestra el mensaje de solicitud recibido
+
 const http = require('http');
 
 const PUERTO = 8080;

@@ -1,3 +1,8 @@
+//-- Ejemplo 3.  MODULO HTTP
+//-- Ejemplo de programacion asíncrona
+//-- El orden de escrititura de los mensajes en la consola
+//-- no es el habitual
+
 const http = require('http');
 
 const PUERTO = 8080;
