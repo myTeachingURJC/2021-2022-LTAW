@@ -1,0 +1,12 @@
+{
+    "name": "mi-electron-app",
+    "description": "Estas es mi primera aplicación de escritorio en Electron",
+    "version": "0.1.0",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "electron": "^12.0.6"
+    }
+}
