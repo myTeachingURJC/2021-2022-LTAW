@@ -1,0 +1,13 @@
+h3 {
+    margin: auto;
+    width: 93%;
+    padding: 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+  }
+  
+  #display {
+      border: 2px solid lightblue;
+      padding: 10px;
+  }
+  

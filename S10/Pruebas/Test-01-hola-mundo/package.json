@@ -1,0 +1,30 @@
+{
+    "name": "test-1-hola-mundo",
+    "description": "Mi primera APP de electron",
+    "version": "0.1.0",
+    "author": {
+        "name": "Obijuan",
+        "email": "obijuan.cube@gmail.com"
+    },
+    "homepage": "Myurl...",
+    "license": "LGPL",
+    "main": "main.js",
+    "build": {
+        "appId": "test-1-id",
+        "asar": true,
+        "linux": {
+            "target": ["AppImage"],
+            "category": "Utility"
+        }
+    },
+    "scripts": {
+        "start": "electron .",
+        "pack": "electron-builder --dir",
+        "dist": "electron-builder",
+        "postinstall": "electron-builder install-app-deps"
+    },
+    "devDependencies": {
+        "electron-builder": "^22.10.5",
+        "electron": "^12.0.5"
+    }
+}
