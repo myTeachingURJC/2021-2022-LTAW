@@ -25,7 +25,7 @@ const server = http.createServer((req, res) => {
   
     //-- Leer recurso y eliminar la / inicial
     let recurso = myURL.pathname;
-    recurso = recurso.substr(1); 
+    recurso = recurso.slice(1);
 
     switch (recurso) {
         case '':
