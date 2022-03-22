@@ -7,8 +7,5 @@
     "license": "GPL-3.0",
     "dependencies": {
         "colors": "^1.4.0"
-    },
-    "scripts": {
-        "start": "node Ej-02.js"
     }
 }
