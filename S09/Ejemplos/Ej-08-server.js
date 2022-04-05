@@ -1,5 +1,5 @@
 //-- Cargar las dependencias
-const socket = require('socket.io');
+const socketServer = require('socket.io').Server;
 const http = require('http');
 const express = require('express');
 const colors = require('colors');
@@ -13,7 +13,7 @@ const app = express();
 const server = http.Server(app);
 
 //-- Crear el servidor de websockets, asociado al servidor http
-const io = socket(server);
+const io = new socketServer(server);
 
 //-------- PUNTOS DE ENTRADA DE LA APLICACION WEB
 //-- Definir el punto de entrada principal de mi aplicación web
